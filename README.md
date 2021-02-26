@@ -8,15 +8,6 @@
  Os dados de medição são auferidos e enviados via rede de comunicação para o sistema, que apresenta ao usuário informações 
  em tempo real sobre consumo e tarifação, auxiliando-o na tomada de decisão sobre o uso de energia elétrica em sua residência. 
  Assim, essa ferramenta pretende assistir o usuário para o uso consciente e sustentável de energia elétrica.
- 
-
-<p align="center"> 
- <a href="#roadmap">Roadmap</a> • 
- <a href="#tecnologias">Tecnologias</a> • 
- <a href="#contribuicao">Contribuição</a> • 
- <a href="#licenc-a">Licença</a> • 
- <a href="#autor">Autor</a>
-</p>
 
 <h4 align="center"> 
 	🚧  Em construção  🚧
