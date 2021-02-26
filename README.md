@@ -19,7 +19,7 @@
 </p>
 
 <h4 align="center"> 
-	🚧  Finalizado  🚧
+	🚧  Em construção  🚧
 </h4>
 
 ### Features
