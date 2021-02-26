@@ -23,3 +23,14 @@
 - [x] Visualiza Monitoramento
 - [x] Pesquisa Monitoramento
 - [x] Gerar Gráficos
+
+### Autor
+---
+
+<a href="https://github.com/rafcavalheiro">
+ <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/24922042?s=460&u=e8c80ee5a0e4869bad66f5c385ae7bfced00d31e&v=4" width="100px;" alt=""/>
+ <br />
+ <sub><b>Rafael Cavalheiro</b></sub></a> <a href="https://blog.rocketseat.com.br/author/thiago//" title="Rocketseat"></a>
+
+[![Twitter Badge](https://twitter.com/rafcavalheiro/photo)](https://twitter.com/rafcavalheiro)]
+[![Gmail Badge](https://lh3.googleusercontent.com/ogw/ADGmqu8QivuRLVAxHLnZGF66_AyE4YI_pncUr4RWvrLS=s83-c-mo=mailto:rafcavalheiro@gmail.com)](mailto:rafcavalheiro@gmail.com)]
